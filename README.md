@@ -1,6 +1,5 @@
 HyperLine
 =========
-
 **HyperLine is a status line plugin for [Hyper.app](https://hyper.is/)**. It shows you useful system information such as free memory, uptime and CPU usage.
 
 ![Screenshot](./screenshot.png)
